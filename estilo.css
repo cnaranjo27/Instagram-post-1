@@ -1,0 +1,109 @@
+body{
+
+    background: black;
+}
+.principal{
+
+    background: white;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: white;
+  
+}
+
+.encabezado{
+    display: flex;
+    width: 590px;
+    height: 40px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: white;
+    
+
+    
+}
+
+.derecha1{
+
+    font-size: x-large;
+}
+.derecha{
+margin-left: 10px;
+    width: 540px;
+    font-size: medium;
+    padding: 0%;
+    
+}
+.derecha :first-child
+{
+ font-weight: bold;
+
+}
+
+.izquierda{
+
+    font-size:x-large;
+
+}
+
+.foto{
+
+    width: 590px;
+    height: 390px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: white;
+    margin: auto;
+}
+
+.foto img {
+width: 590px;
+height: 400px;
+padding: 0%;
+}
+
+.fondo{
+
+    width: 590px;
+    height: 150px;
+    border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-color: white;
+
+}
+
+.A{
+
+    display: flex;
+}
+.A1{
+margin-top: 10px;
+    font-size: x-large;
+}
+.A2{
+
+    margin-top: 10px;
+    font-size: x-large;
+    margin-left: 483px;
+}
+.B{
+
+    margin-top: 10px;
+}
+
+
+.C{
+    margin-top: 10px;
+}
+
